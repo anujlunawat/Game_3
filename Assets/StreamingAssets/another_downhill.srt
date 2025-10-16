@@ -1,0 +1,24 @@
+1
+00:00:00,100 --> 00:00:01,259
+Back to a steep slope.
+
+2
+00:00:02,020 --> 00:00:04,628
+Acceleration increases again and the car
+
+3
+00:00:04,639 --> 00:00:05,879
+gains speed quickly.
+
+4
+00:00:06,580 --> 00:00:09,449
+This shows that in variable acceleration, the rate
+
+5
+00:00:09,460 --> 00:00:11,759
+of change of velocity keeps shifting.
+
+6
+00:00:12,400 --> 00:00:14,619
+Sometimes fast, sometimes slow.
+

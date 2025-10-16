@@ -1,0 +1,39 @@
+1
+00:00:00,590 --> 00:00:04,010
+Welcome, driver. Today, we are going to explore rectilinear motion
+
+3
+00:00:04,010 --> 00:00:05,270
+with variable acceleration.
+
+4
+00:00:05,950 --> 00:00:08,370
+Rectilinear motion means moving in a straight line.
+
+5
+00:00:09,070 --> 00:00:12,490
+But when acceleration keeps changing, things get interesting.
+
+6
+00:00:13,190 --> 00:00:13,670
+Look ahead.
+
+7
+00:00:13,990 --> 00:00:14,830
+You're going downhill.
+
+8
+00:00:15,470 --> 00:00:17,430
+Start your engine and let gravity do the
+
+9
+00:00:17,430 --> 00:00:17,990
+hard work.
+
+10
+00:00:18,450 --> 00:00:20,270
+Hit all the checkpoints before the clock hits
+
+11
+00:00:20,270 --> 00:00:20,450
+you.

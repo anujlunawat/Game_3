@@ -1,0 +1,11 @@
+1
+00:00:00,210 --> 00:00:02,110
+Now at this turn, notice how friction between
+
+2
+00:00:02,110 --> 00:00:04,770
+the tyres and the road resists its motion
+
+3
+00:00:04,770 --> 00:00:07,530
+slightly, causing your acceleration to decrease.

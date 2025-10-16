@@ -1,0 +1,11 @@
+Model Information:
+* title:	Krabby Patty Wagon
+* source:	https://sketchfab.com/3d-models/krabby-patty-wagon-89cf6f42b3f9476ca61fed1c177e7a5e
+* author:	Rafa Andrade (https://sketchfab.com/rafa_andrade)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Krabby Patty Wagon" (https://sketchfab.com/3d-models/krabby-patty-wagon-89cf6f42b3f9476ca61fed1c177e7a5e) by Rafa Andrade (https://sketchfab.com/rafa_andrade) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

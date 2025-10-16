@@ -1,0 +1,55 @@
+fileFormatVersion: 2
+guid: fff3b72e692b38447bb9a765ab076ba8
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 715df9372183c47e389bb6e19fbc3b52, type: 3}
+  editorImportSettings:
+    generateSecondaryUVSet: 0
+  importSettings:
+    nodeNameMethod: 1
+    animationMethod: 2
+    generateMipMaps: 1
+    texturesReadable: 0
+    defaultMinFilterMode: 9729
+    defaultMagFilterMode: 9729
+    anisotropicFilterLevel: 1
+  instantiationSettings:
+    mask: -1
+    layer: 0
+    skinUpdateWhenOffscreen: 1
+    lightIntensityFactor: 1
+    sceneObjectCreation: 2
+  assetDependencies:
+  - type: 1
+    originalUri: Assets\glb assets\01- Toyota.Ae86.Steering.Wheel\078108ae53c34c58b356080c0492a78c_R_Ae86_SteeringWheel_Lp_Metallic.png
+    assetPath: Assets\glb assets\01- Toyota.Ae86.Steering.Wheel\078108ae53c34c58b356080c0492a78c_R_Ae86_SteeringWheel_Lp_Metallic.png
+  - type: 1
+    originalUri: Assets\glb assets\01- Toyota.Ae86.Steering.Wheel\b3fa23a11df64ac0b913c09c7aa2f9a6_RGB_Ae86_SteeringWheel_Lp_Color.png
+    assetPath: Assets\glb assets\01- Toyota.Ae86.Steering.Wheel\b3fa23a11df64ac0b913c09c7aa2f9a6_RGB_Ae86_SteeringWheel_Lp_Color.png
+  - type: 1
+    originalUri: Assets\glb assets\01- Toyota.Ae86.Steering.Wheel\c460a19e48664a22a0359aaf5b8f38d4_N_Ae86_SteeringWheel_Lp_Normal.png
+    assetPath: Assets\glb assets\01- Toyota.Ae86.Steering.Wheel\c460a19e48664a22a0359aaf5b8f38d4_N_Ae86_SteeringWheel_Lp_Normal.png
+  - type: 1
+    originalUri: Assets\glb assets\01- Toyota.Ae86.Steering.Wheel\fa1848a3f82c4b97962ae64cb2f6cb2d_R_Ae86_SteeringWheel_Lp_Roughness.png
+    assetPath: Assets\glb assets\01- Toyota.Ae86.Steering.Wheel\fa1848a3f82c4b97962ae64cb2f6cb2d_R_Ae86_SteeringWheel_Lp_Roughness.png
+  reportItems:
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []
+  - type: 2
+    code: 19
+    messages: []

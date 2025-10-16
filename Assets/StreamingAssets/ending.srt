@@ -1,0 +1,39 @@
+1
+00:00:00,310 --> 00:00:01,490
+You've reached the bottom of the hill.
+
+2
+00:00:02,470 --> 00:00:03,030
+Let's review.
+
+3
+00:00:03,790 --> 00:00:05,610
+Velocity is how fast you move in a
+
+4
+00:00:05,610 --> 00:00:06,010
+direction.
+
+5
+00:00:06,830 --> 00:00:09,990
+Acceleration is how quickly that velocity changes.
+
+6
+00:00:10,830 --> 00:00:14,910
+When acceleration keeps changing due to slope, friction
+
+7
+00:00:14,910 --> 00:00:18,090
+or turns, we call it variable acceleration.
+
+8
+00:00:18,850 --> 00:00:19,490
+Great job.
+
+9
+00:00:20,110 --> 00:00:21,870
+You've just experienced physics in motion.
+
+10
+00:00:22,250 --> 00:00:22,590
+Literally.

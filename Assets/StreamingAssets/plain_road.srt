@@ -1,0 +1,19 @@
+1
+00:00:00,080 --> 00:00:02,559
+On this flatter section,
+the slope is smaller.
+
+2
+00:00:02,960 --> 00:00:05,079
+So gravity doesn't
+pull as strongly.
+
+3
+00:00:05,900 --> 00:00:09,249
+That means less acceleration
+and your car starts to
+
+4
+00:00:09,260 --> 00:00:10,679
+move at a steadier speed.
+

@@ -1,0 +1,47 @@
+1
+00:00:00,250 --> 00:00:01,770
+See how your car begins to speed up?
+
+2
+00:00:02,890 --> 00:00:03,930
+That's acceleration.
+
+3
+00:00:05,030 --> 00:00:07,410
+The rate at which your velocity or speed
+
+4
+00:00:07,410 --> 00:00:08,130
+changes.
+
+5
+00:00:08,650 --> 00:00:09,830
+But notice something.
+
+6
+00:00:10,970 --> 00:00:13,330
+As the hill is steeper, gravity pulls your
+
+7
+00:00:13,330 --> 00:00:14,270
+car more strongly.
+
+8
+00:00:14,790 --> 00:00:16,130
+So acceleration increases.
+
+9
+00:00:17,250 --> 00:00:19,250
+You move faster and faster in a short
+
+10
+00:00:19,250 --> 00:00:19,570
+time.
+
+11
+00:00:20,370 --> 00:00:22,470
+That's because your acceleration is variable.
+
+12
+00:00:23,250 --> 00:00:25,230
+It changes with every part of the hill.
