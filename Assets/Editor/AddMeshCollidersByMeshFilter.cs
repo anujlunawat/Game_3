@@ -30,7 +30,7 @@ public class AddMeshCollidersByMeshFilter : MonoBehaviour
             mc.sharedMesh = mf.sharedMesh;
 
             // Optional: You can set Convex to false for static geometry
-            mc.convex = false;
+            mc.convex = true;
         }
 
         Debug.Log($"Added/Updated Mesh Colliders to {count} objects under '{Selection.activeGameObject.name}'.");

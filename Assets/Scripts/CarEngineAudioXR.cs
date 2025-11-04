@@ -8,18 +8,18 @@ public class CarEngineAudioXR : MonoBehaviour
     private AudioSource engineAudio;
 
     [Header("Engine Sound Settings")]
-    public float minPitch = 0.8f;       // sound when idle
+    public float minPitch = 0.6f;       // sound when idle
     public float maxPitch = 2.0f;       // sound at full throttle
-    public float minVolume = 0.4f;      // idle volume
-    public float maxVolume = 1.0f;      // loudest volume
-    public float smoothTime = 0.1f;     // smooth transition speed
+    public float minVolume = 0.072f;      // idle volume
+    public float maxVolume = 0.085f;      // loudest volume
+    public float smoothTime = 0.15f;     // smooth transition speed
 
     [Header("Throttle Response")]
     public float throttleLerpSpeed = 5f; // how fast it reacts to throttle
 
     [Header("Engine Rumble (Natural Randomness)")]
     public bool enableRumble = true;      // toggle randomization
-    public float rumbleIntensity = 0.03f; // how much to vary pitch (±%)
+    public float rumbleIntensity = 0.065f; // how much to vary pitch (±%)
     public float rumbleSpeed = 10f;       // how fast rumble changes
 
     private float basePitch;
