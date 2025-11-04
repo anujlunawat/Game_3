@@ -9614,7 +9614,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.75
+      value: -1.99
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalPosition.y
@@ -9622,7 +9622,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.21
+      value: -0.19
       objectReference: {fileID: 0}
     - target: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
       propertyPath: m_LocalRotation.w
@@ -10162,7 +10162,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1264586750259148841
 Transform:
   m_ObjectHideFlags: 0
@@ -23652,7 +23652,7 @@ Transform:
   m_GameObject: {fileID: 7362338711337242699}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -90.85769, y: 253.4, z: -329.8208}
+  m_LocalPosition: {x: -93.28, y: 252.43, z: -329.8208}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -24240,11 +24240,11 @@ MonoBehaviour:
   frontRightMesh: {fileID: 0}
   rearLeftMesh: {fileID: 0}
   rearRightMesh: {fileID: 0}
-  maxMotorTorque: 80000
+  maxMotorTorque: 8000
   maxSteerAngle: 30
   brakeTorque: 3000
   handbrakeTorque: 6000
-  antiRoll: 10000
+  antiRoll: 100000
   centerOfMass: {fileID: 0}
   headlightLeft: {fileID: 0}
   headlightRight: {fileID: 0}
@@ -25834,7 +25834,7 @@ MeshCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 5
   m_Convex: 1
   m_CookingOptions: 30
@@ -26291,7 +26291,7 @@ MeshCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 1
+  m_Enabled: 0
   serializedVersion: 5
   m_Convex: 1
   m_CookingOptions: 30
@@ -30191,6 +30191,7 @@ SceneRoots:
   - {fileID: 2132982927}
   - {fileID: 3269571458119023201}
   - {fileID: 950758717}
+  - {fileID: 7109027023084716844}
   - {fileID: 4720670166416562783}
   - {fileID: 1387710992}
   - {fileID: 1888781483}
@@ -30207,4 +30208,3 @@ SceneRoots:
   - {fileID: 1798591826}
   - {fileID: 977538136}
   - {fileID: 999624872}
-  - {fileID: 7109027023084716844}
