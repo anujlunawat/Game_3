@@ -26,7 +26,7 @@ RenderSettings:
   m_AmbientIntensity: 1.2
   m_AmbientMode: 0
   m_SubtractiveShadowColor: {r: 0.42, g: 0.478, b: 0.627, a: 0.5921569}
-  m_SkyboxMaterial: {fileID: 0}
+  m_SkyboxMaterial: {fileID: 3116540590146341863, guid: 3ea617585f640f24798f369399c7eba2, type: 3}
   m_HaloStrength: 0.5
   m_FlareStrength: 1
   m_FlareFadeSpeed: 3
@@ -480,6 +480,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: skybox_side_chicken_gun
       objectReference: {fileID: 0}
+    - target: {fileID: 8128668236925612103, guid: 3ea617585f640f24798f369399c7eba2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 8897093224900880590, guid: 3ea617585f640f24798f369399c7eba2, type: 3}
       propertyPath: m_LocalScale.x
       value: 100
@@ -754,7 +758,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &104665525
 Transform:
   m_ObjectHideFlags: 0
@@ -1993,7 +1997,7 @@ Light:
     serializedVersion: 2
     m_Bits: 4294967295
   m_RenderingLayerMask: 1
-  m_Lightmapping: 4
+  m_Lightmapping: 2
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -2016,13 +2020,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 410087039}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.8826903, y: -0.24874322, z: -0.07151327, w: 0.39226338}
-  m_LocalPosition: {x: 15.59, y: 200, z: 0}
+  m_LocalRotation: {x: 0.94836515, y: -0.25845927, z: -0.01364356, w: 0.18334752}
+  m_LocalPosition: {x: 138.9, y: 452, z: 261.6}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 41.065, y: -154.769, z: -138.941}
+  m_LocalEulerAnglesHint: {x: 19.92, y: -172.627, z: -148.214}
 --- !u!114 &410087042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4797,7 +4801,7 @@ PrefabInstance:
     - target: {fileID: 437490579763127512, guid: 81c7cfcb6ec0c7d46a591774262d63b0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 7306412639485887738, guid: 4447be26954cf9d49aa6b48b8adfd788, type: 3}
+      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 1173143065352161765, guid: 81c7cfcb6ec0c7d46a591774262d63b0, type: 3}
       propertyPath: m_Name
       value: tunnelExit
@@ -5601,6 +5605,10 @@ PrefabInstance:
     - target: {fileID: 8128668236925612103, guid: 3ea617585f640f24798f369399c7eba2, type: 3}
       propertyPath: m_Name
       value: skybox_side_chicken_gun (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 8128668236925612103, guid: 3ea617585f640f24798f369399c7eba2, type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8897093224900880590, guid: 3ea617585f640f24798f369399c7eba2, type: 3}
       propertyPath: m_LocalScale.x
@@ -6484,6 +6492,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: toyota_ae86
       objectReference: {fileID: 0}
+    - target: {fileID: 4684526391997096963, guid: 426f6f80001acd7438f7df9f04ab0f53, type: 3}
+      propertyPath: m_LinearDamping
+      value: 0.55
+      objectReference: {fileID: 0}
     - target: {fileID: 6039644489946664395, guid: 426f6f80001acd7438f7df9f04ab0f53, type: 3}
       propertyPath: teleportDestination
       value: 
@@ -6536,7 +6548,8 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 8546216769483431652, guid: 426f6f80001acd7438f7df9f04ab0f53, type: 3}
     m_RemovedGameObjects:
     - {fileID: -2320914826506863075, guid: 426f6f80001acd7438f7df9f04ab0f53, type: 3}
     m_AddedGameObjects: []
@@ -6614,7 +6627,7 @@ PrefabInstance:
     - target: {fileID: 437490579763127512, guid: 81c7cfcb6ec0c7d46a591774262d63b0, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: -6478065708486498772, guid: 4447be26954cf9d49aa6b48b8adfd788, type: 3}
+      objectReference: {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
     - target: {fileID: 1173143065352161765, guid: 81c7cfcb6ec0c7d46a591774262d63b0, type: 3}
       propertyPath: m_Name
       value: tunnelEntrance
