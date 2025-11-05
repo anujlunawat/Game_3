@@ -188,6 +188,8 @@ public class XRWheelCarControllerXR : MonoBehaviour
             currentAcceleration = (newSpeed - currentSpeedKmh) / Time.fixedDeltaTime;
             currentSpeedKmh = newSpeed;
 
+            Debug.Log("Speed: " + currentSpeedKmh + " km/h, Accel: " + currentAcceleration + " m/s²");
+
             if (steeringWheel != null)
                 currentSteeringWheelRotation = steeringWheel.localRotation.z * maxWheelRotation;
 

@@ -11,6 +11,8 @@ public class AddMeshCollidersByMeshFilter : MonoBehaviour
 
         int count = 0;
 
+        Debug.Log("Starting");
+
         foreach (MeshFilter mf in meshFilters)
         {
             // Skip if no mesh assigned
