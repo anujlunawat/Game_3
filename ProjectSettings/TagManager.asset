@@ -8,6 +8,7 @@ TagManager:
   - TransitionZone
   - SafeLandingPoint
   - TunnelTrigger
+  - camera1
   layers:
   - Default
   - TransparentFX
